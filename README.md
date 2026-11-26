@@ -1,4 +1,4 @@
-# NXP LPC1768 (ARM Cortex-M3) Bare-Metal Peripheral Drivers
+# NXP LPC1768 (ARM Cortex-M3) Bare-Metal
 
 Register-level Embedded C implementations for the NXP LPC1768 microcontroller, developed and verified in **Keil µVision** and flashed via **Flash Magic (UART0 ISP)**.
 
